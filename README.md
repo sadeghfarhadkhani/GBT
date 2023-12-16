@@ -1,5 +1,8 @@
 # GBT
-Code for AAAI 2024 submission "Generalized Bradley-Terry Models for Score Estimation from Paired Comparisons"
+Code for AAAI 2024 paper "[Generalized Bradley-Terry Models for Score Estimation from Paired Comparisons](https://arxiv.org/abs/2308.08644)"
+
+Authors: Julien Fageot, Sadegh Farhadkhani, Lê Nguyên Hoang, Oscar Villemaud
+
 
 
 ## Software dependencies:
